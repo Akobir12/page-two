@@ -408,15 +408,15 @@ body {
 	display: flex;
 	justify-content: space-between;
 }
-.box-text {
+.box-text-2 {
 	margin-top: 95px;
 }
-.box-text h1  {
+.box-text-2 h1  {
 	font-size: 36px ;
 	font-weight: 500;
 	margin: 10px;
 }
-.box-text p {
+.box-text-2 p {
 	font-size: 16px ;
 	color: #363940;
 	font-weight: 400;
